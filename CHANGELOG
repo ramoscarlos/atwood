@@ -1,0 +1,11 @@
+0.11.1
+--------------------------------------------------------------------------------
+* Se agregó una pantalla para permitir la captura del nombre del jugador en las
+  puntuaciones más altas.
+* Se agregaron tres tilesets distintos para cambiar el aspecto del mapa. Residen
+  en la carpeta media/niveles. Los archivos son tiles_tierra.tga,
+  tiles_pasto.tga, y tiles_rocas.tga
+
+0.11
+--------------------------------------------------------------------------------
+* Se agregaron las escenas: Inicial, Puntuaciones, Juego Terminado.
